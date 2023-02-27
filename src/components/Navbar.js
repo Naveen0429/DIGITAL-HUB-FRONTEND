@@ -103,7 +103,7 @@ export default function Navbar() {
     // </div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-  <a className="navbar-brand" href="/"><Diversity2Icon className="main-icon"/>PIXEL SHOPS</a>
+  <a className="navbar-brand" href="/"><Diversity2Icon className="main-icon"/>DIGITAL HUB SHOPS</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"><i class="fas fa-bars" style={{color:'white'}}></i></span>
     </button>
